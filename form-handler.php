@@ -6,7 +6,7 @@ $subject = $_POST['subject'];
 $message = $_POST['message'];
 
 // Email information
-$to = 'portfolio@iamusama.online'; // Replace with your email address
+$to = 'usamarazzaq9014@gmail.com'; // Replace with your email address
 $subject = "$subject";
 $headers = "From: $name <$email>" . "\r\n";
 
